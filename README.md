@@ -13,3 +13,10 @@
 | [maffie-noise](https://github.com/maffiemaffie/maffie-noise) | n-dimensional value-noise generator | js, ts |
 | [canvas-snowflake](https://github.com/maffiemaffie/canvas-snowflake) | canvas api snowflakes | js |
 | [cell-engine](https://github.com/maffiemaffie/fire-cell-engine) | draws by procedurally filling in grid tiles | js, html |
+
+## What am I working on right now? 🙀
+| project name | description | uses |
+|-|-|-|
+| [gradient](https://github.com/maffiemaffie/gradient) | create gradients with multiple stops | js |
+| portfolio (no link yet) | my portfolio | html, css |
+| 470-plant-project (no like yet) | tbd | c++ |
