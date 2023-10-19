@@ -20,7 +20,7 @@
 |-|-|-|
 | [battleship-api](https://github.com/maffiemaffie/battleship-api) | online multiplayer battleship | node.js, ts, html, css |
 | [maffie-noise](https://github.com/maffiemaffie/maffie-noise) | n-dimensional value noise generator | js, ts |
-| [canvas-snowflake](https://github.com/maffiemaffie/canvas-snowflake) | canvas api snowflakes | js |
+| [canvas-snowflake](https://github.com/maffiemaffie/canvas-snowflake) | <canvas> snowflakes | js |
 | [cell-engine](https://github.com/maffiemaffie/fire-cell-engine) | draws by procedurally filling in grid tiles | js, html |
 
 ## What am I working on right now? 🙀
