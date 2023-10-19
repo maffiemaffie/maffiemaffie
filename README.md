@@ -19,4 +19,4 @@
 |-|-|-|
 | [gradient](https://github.com/maffiemaffie/gradient) | create gradients with multiple stops | js |
 | portfolio (no link yet) | my portfolio | html, css |
-| 470-plant-project (no like yet) | tbd | c++ |
+| 470-plant-project (no link yet) | tbd | c++ |
