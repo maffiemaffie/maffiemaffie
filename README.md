@@ -8,6 +8,7 @@
 
 ## Check out my projects ^_^
 | project name | description | uses |
+|-|-|-|
 | [battleship-api](https://github.com/maffiemaffie/battleship-api) | online multiplayer battleship | node.js, ts, html, css |
 | [maffie-noise](https://github.com/maffiemaffie/maffie-noise) | value-noise generator | js, ts |
 | [canvas-snowflake](https://github.com/maffiemaffie/canvas-snowflake) | canvas api snowflakes | js |
