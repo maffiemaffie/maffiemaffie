@@ -28,4 +28,5 @@
 |-|-|-|
 | [gradient](https://github.com/maffiemaffie/gradient) | create gradients with multiple stops | js |
 | portfolio (no link yet) | my portfolio | html, css |
-| 470-plant-project (no link yet) | tbd | c++ |
+| 470-memory-game (no link yet) | arduino memory game | c++, arduino |
+| lastle-fm (no link yet) | wordle style guessing game for your last.fm stats | node.js, ts, html, css | 
