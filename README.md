@@ -29,4 +29,4 @@
 | [gradient](https://github.com/maffiemaffie/gradient) | create gradients with multiple stops | js |
 | portfolio (no link yet) | my portfolio | html, css |
 | [arduino-memory-game](https://github.com/maffiemaffie/arduino-memory-game) | (class project) arduino memory game | c++, arduino |
-| lastle-fm (no link yet) | wordle style guessing game for your last.fm stats | node.js, ts, html, css | 
+| rewind-le (no link yet) | wordle style guessing game for your music via last.fm | node.js, ts, html, css | 
