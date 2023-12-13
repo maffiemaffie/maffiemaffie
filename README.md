@@ -18,7 +18,9 @@
 ## Check out my projects ^_^
 | project name | description | uses |
 |-|-|-|
+| [rewind-le](https://github.com/maffiemaffie/rewind-le) | (class project) wordle style guessing game for your music via last.fm | node.js, ts, html, css |
 | [battleship-api](https://github.com/maffiemaffie/battleship-api) | online multiplayer battleship | node.js, ts, html, css |
+| [arduino-memory-game](https://github.com/maffiemaffie/arduino-memory-game) | (class project) arduino memory game | c++, arduino |
 | [maffie-noise](https://github.com/maffiemaffie/maffie-noise) | n-dimensional value noise generator | js, ts |
 | [canvas-snowflake](https://github.com/maffiemaffie/canvas-snowflake) | \<canvas\> snowflakes | js |
 | [cell-engine](https://github.com/maffiemaffie/fire-cell-engine) | draws by procedurally filling in grid tiles | js, html |
@@ -28,5 +30,3 @@
 |-|-|-|
 | [gradient](https://github.com/maffiemaffie/gradient) | create gradients with multiple stops | js |
 | portfolio (no link yet) | my portfolio | html, css |
-| [arduino-memory-game](https://github.com/maffiemaffie/arduino-memory-game) | (class project) arduino memory game | c++, arduino |
-| [rewind-le](https://github.com/maffiemaffie/rewind-le) | (class project) wordle style guessing game for your music via last.fm | node.js, ts, html, css | 
