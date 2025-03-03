@@ -29,4 +29,4 @@
 | project name | description | uses |
 |-|-|-|
 | [gradient](https://github.com/maffiemaffie/gradient) | create gradients with multiple stops | js |
-| portfolio (no link yet) | my portfolio | html, css |
+| [portfolio](https://github.com/maffiemaffie/portfolio) | my portfolio | node.js, react, html, css |
