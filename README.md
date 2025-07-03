@@ -18,16 +18,14 @@
 ## Check out my projects ^_^
 | project name | description | uses |
 |-|-|-|
+| [overboard](https://github.com/Overboard-RIT/overboard) | (capstone project) XR mini game with live motion tracking | unity, c# |
+| [outspoken-website](https://github.com/OUTspoken-RIT/website) | (professional project) website for RIT's OUTspoken organization | react, next.js |
 | [rewind-le](https://github.com/maffiemaffie/rewind-le) | (class project) wordle style guessing game for your music via last.fm | node.js, ts, html, css |
-| [battleship-api](https://github.com/maffiemaffie/battleship-api) | online multiplayer battleship | node.js, ts, html, css |
 | [arduino-memory-game](https://github.com/maffiemaffie/arduino-memory-game) | (class project) arduino memory game | c++, arduino |
-| [maffie-noise](https://github.com/maffiemaffie/maffie-noise) | n-dimensional value noise generator | js, ts |
-| [canvas-snowflake](https://github.com/maffiemaffie/canvas-snowflake) | \<canvas\> snowflakes | js |
-| [cell-engine](https://github.com/maffiemaffie/fire-cell-engine) | draws by procedurally filling in grid tiles | js, html |
+
 
 ## What am I working on right now? 🙀
 | project name | description | uses |
 |-|-|-|
-| [gradient](https://github.com/maffiemaffie/gradient) | create gradients with multiple stops | js |
 | [portfolio](https://github.com/maffiemaffie/portfolio) | my portfolio | node.js, react, html, css |
-| [overboard](https://github.com/overboard-rit/overboard) | floor is lava type game | unity, c# |
+| [outspoken-website](https://github.com/OUTspoken-RIT/website) | (professional project) website for RIT's OUTspoken organization | react, next.js |
