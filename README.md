@@ -21,7 +21,7 @@
 |-|-|-|
 | [overboard](https://github.com/Overboard-RIT/overboard) | (capstone project) XR mini game with live motion tracking | unity, c# |
 | [outspoken-website](https://github.com/OUTspoken-RIT/website) | (professional project) website for RIT's OUTspoken organization | react, next.js |
-| [rewind-le](https://github.com/maffiemaffie/rewind-le) | (class project) wordle style guessing game for your music via last.fm | node.js, ts, html, css |
+| [rewind-le](https://github.com/maffiemaffie/rewind-le) | (class project) wordle style guessing game for your music via last.fm | node.js, mongodb, html, css |
 | [arduino-memory-game](https://github.com/maffiemaffie/arduino-memory-game) | (class project) arduino memory game | c++, arduino |
 
 
