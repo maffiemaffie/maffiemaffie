@@ -28,5 +28,5 @@
 ## What am I working on right now? 🙀
 | project name | description | uses |
 |-|-|-|
-| [portfolio-2025](https://github.com/maffiemaffie/portfolio-2025) | my new!!! portfolio | next.js, react, html, css |
+| [portfolio-2025](https://github.com/maffiemaffie/portfolio-2025) | my new!!! portfolio | next.js, react, html, scss |
 | [outspoken-website](https://github.com/OUTspoken-RIT/website) | (professional project) website for RIT's OUTspoken organization | react, next.js |
